@@ -1,0 +1,28 @@
+{
+  "name": "qs-merge",
+  "version": "1.0.0",
+  "description": "Merge two querystrings as strings or objects",
+  "main": "qs-merge.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iofjuupasli/qs-merge.git"
+  },
+  "keywords": [
+    "qs",
+    "querystring",
+    "merge",
+    "utils"
+  ],
+  "author": "Valery Tretyak <iofjuupasli@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iofjuupasli/qs-merge/issues"
+  },
+  "homepage": "https://github.com/iofjuupasli/qs-merge#readme",
+  "devDependencies": {
+    "jest": "^23.4.1"
+  }
+}
